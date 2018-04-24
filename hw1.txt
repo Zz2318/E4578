@@ -1,3 +1,0 @@
-Text file for hw1.
-
-This is the change i made.
